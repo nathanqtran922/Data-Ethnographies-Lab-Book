@@ -394,5 +394,5 @@ What if you don't know what the column names are? To see a list of column names,
 ```{r}
 colnames(df)
 ```
-Finally, on the top right hand side of your RStudio screen, you will see a tab called Environment. If you click on that tab, you should see all of the data that you have stored in variables. You can check column names here. testing
+Finally, on the top right hand side of your RStudio screen, you will see a tab called Environment. If you click on that tab, you should see all of the data that you have stored in variables. You can check column names here.a
 
